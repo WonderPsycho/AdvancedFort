@@ -1,3 +1,0 @@
-creature_spellcrafts_wild_beasts
-
-[OBJECT:CREATURE]

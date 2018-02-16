@@ -30045,3 +30045,12 @@ The weather has cleared.
 *** STARTING NEW GAME ***
 Spring has arrived on the calendar.
 The weather has cleared.
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+Generating world using parameter set CREATE WORLD NOW = 5333333
+ Seed: iSo8EQiysew8SI8CYAmc
+ History Seed: mW0Oe6ogmWSOi0WYwwyQ
+ Name Seed: sGyU60omO2QYoWq6QCou
+ Creature Seed: gkmwE4m0s6Q8GmMqycWW
+Nothing has arrived on the calendar.
+The weather has cleared.

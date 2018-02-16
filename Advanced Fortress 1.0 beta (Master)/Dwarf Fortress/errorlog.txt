@@ -13333,3 +13333,234 @@ Unrecognized symbol: NAME_BUILDING_LIBRARY
 Unrecognized symbol: NAME_BUILDING_LIBRARY
 *** Error(s) finalizing the entity REDCAP
 Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) found in the file "raw/objects/inorganic_plague_clouds.txt"
+WEREWOLF_PLAGUE_CLOUD:Unrecognized Inorganic Material Definition Token: IE_ARENA_NAME
+*** Error(s) found in the file "raw/objects/creature_dragon_of_knowledge.txt"
+Unrecognized Sphere Token: POWER
+Unrecognized Personality Facet Token: LAW
+Unrecognized Personality Facet Token: LOYALTY
+Unrecognized Personality Facet Token: FAMILY
+Unrecognized Personality Facet Token: POWER
+Unrecognized Personality Facet Token: TRUTH
+Unrecognized Personality Facet Token: KNOWLEDGE
+Unrecognized Personality Facet Token: FRIENDSHIP
+Unrecognized Personality Facet Token: TRADITION
+Unrecognized Personality Facet Token: FAIRNESS
+Unrecognized Personality Facet Token: SKILL
+*** Error(s) found in the file "raw/objects/creature_golem.txt"
+GOLEM:Tissue layer not added because no BP found: BY_CATEGORY:CRYSTAL_10:CRYSTAL_TISSUE
+GOLEM:Tissue layer not added because no BP found: BY_CATEGORY:CRYSTAL_10:GAS_10
+*** Error(s) found in the file "raw/objects/creature_greater_werebeast.txt"
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+GREATER_WEREWOLF:Attribute range greater than 5000, repaired
+*** Error(s) found in the file "raw/objects/creature_new_beings.txt"
+Unrecognized Personality Facet Token: POWER
+Unrecognized Unit Type Token: MONARCH
+Unrecognized Sphere Token: POWER
+*** Error(s) found in the file "raw/objects/creature_new_orctroll.txt"
+Unrecognized Personality Facet Token: POWER
+Unrecognized Personality Facet Token: INDEPENDENCE
+*** Error(s) found in the file "raw/objects/creature_plague.txt"
+ZODAK_RAT:Unrecognized Creature Token: OBJECT
+*** Error(s) found in the file "raw/objects/entity_new_civs.txt"
+Unrecognized Unit Type Token: DIPLOMAT
+Unrecognized Sphere Token: POWER
+Unrecognized Unit Type Token: PRISONER
+Unrecognized Unit Type Token: SLAVE
+CHAOS_HUMAN:GRAND_PRIEST: DEMAND_MAX exceeds 100, capped
+*** Error(s) found in the file "raw/objects/entity_new_milkdrinker.txt"
+Unrecognized Sphere Token: POWER
+Unrecognized Sphere Token: HARMONY
+Unrecognized Sphere Token: DISCORD
+Unrecognized Sphere Token: POWER
+Unrecognized Sphere Token: HARMONY
+Unrecognized Sphere Token: DISCORD
+Unrecognized Sphere Token: DISCORD
+Unrecognized Sphere Token: HARMONY
+Unrecognized Unit Type Token: REBEL_DUKE
+Unrecognized Unit Type Token: REBEL_GENERAL
+Unrecognized Unit Type Token: REBEL_LEADER
+MILKDRINKER:REBEL_LEADER: has foreground color > 7, set to 7
+MILKDRINKER:REBEL_LEADER: has invalid brightness value (must be 0 or 1), set to 0
+MILKDRINKER:REBEL_LEADER: has equal foreground/background colors without brightness, background set to 0
+*** Error(s) found in the file "raw/objects/entity_new_orctrolls.txt"
+Unrecognized Sphere Token: PRIDE
+Unrecognized Sphere Token: INDEPENDENCE
+Unrecognized Sphere Token: INDEPENDENCE
+Unrecognized Sphere Token: POWER
+Unrecognized Sphere Token: PRIDE
+Unrecognized Sphere Token: INDEPENDENCE
+Unrecognized Sphere Token: POWER
+Unrecognized Sphere Token: PRIDE
+Unrecognized Unit Type Token: REBEL
+Unrecognized Unit Type Token: DIPLOMAT
+Unrecognized Unit Type Token: MONARCH
+*** Error(s) finalizing the symbol OLD
+Unrecognized word token: YOR
+*** Error(s) finalizing the translation DWARF
+Unrecognized word token: YOR
+*** Error(s) finalizing the translation GROGISH
+Unrecognized word token: YOR
+*** Error(s) finalizing the translation WEREIAN
+Unrecognized word token: YOR
+Unrecognized Caste Token in Body Transformation Effect: :
+*** Error(s) finalizing the creature WEREIAN
+FEMALE : KICK : Special attack interaction token not recognized : SPELL_WEREALAMANDER_BITE
+FEMALE : KICK : Special attack interaction token not recognized : SPELL_WEREALAMANDER_BITE
+FEMALE : SCRATCH : Special attack interaction token not recognized : SPELL_WERESERPANT_BITE
+FEMALE : SCRATCH : Special attack interaction token not recognized : SPELL_WERESERPANT_BITE
+MALE : KICK : Special attack interaction token not recognized : SPELL_WEREALAMANDER_BITE
+MALE : KICK : Special attack interaction token not recognized : SPELL_WEREALAMANDER_BITE
+MALE : SCRATCH : Special attack interaction token not recognized : SPELL_WERESERPANT_BITE
+MALE : SCRATCH : Special attack interaction token not recognized : SPELL_WERESERPANT_BITE
+*** Error(s) finalizing the entity MOUNTAIN
+Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) finalizing the entity FOREST
+Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) finalizing the entity PLAINS
+Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) finalizing the entity EVIL
+Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) finalizing the entity ARTHRAK
+Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) finalizing the entity BAOYO
+Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) finalizing the entity FOX_MAN_2
+Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) finalizing the entity GODKIN
+Unrecognized Inorganic Token: ADAMANTINE_WAFERS
+Unrecognized symbol: ALL
+Unrecognized symbol: ALL
+Unrecognized symbol: ALL
+Unrecognized symbol: ALL
+Unrecognized symbol: ALL
+Unrecognized symbol: ALL
+Unrecognized symbol: ALL
+Unrecognized symbol: ALL
+Unrecognized symbol: ALL
+Unrecognized symbol: ALL
+Unrecognized symbol: ALL
+Unrecognized symbol: ALL
+Unrecognized symbol: ALL
+Unrecognized symbol: ALL
+Unrecognized symbol: ALL
+Unrecognized symbol: ALL
+*** Error(s) finalizing the entity WEREIAN
+Unrecognized symbol: ALL
+Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) finalizing the entity ANIMAL_PEOPLE_CIVS
+Unrecognized Inorganic Token: ADAMANTINE_WAFERS
+Unrecognized entity creature token: SERPANT_MAN
+Unrecognized entity creature token: COUGER_MAN
+Unrecognized entity creature token: CAPYBARA_MAN
+Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) finalizing the entity CHAOS_HUMAN
+Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) finalizing the entity CRYSANTHROPE
+Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) finalizing the entity DOLOI
+Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) finalizing the entity EKKLOS
+Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) finalizing the entity FELYR
+Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) finalizing the entity GANBU
+Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) finalizing the entity HLIRA
+Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) finalizing the entity ISALITE
+Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) finalizing the entity JOGHADAI
+Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) finalizing the entity KALKIR
+Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) finalizing the entity LULOT
+Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) finalizing the entity MANAT
+Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) finalizing the entity MILKDRINKER
+Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) finalizing the entity NRUS
+Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) finalizing the entity OLARU
+Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) finalizing the entity ORCTROLL
+Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) finalizing the entity PASRAG
+Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) finalizing the entity QAAROU
+Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) finalizing the entity RUX
+Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) finalizing the entity SILANIF
+Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) finalizing the entity TOGRIQ
+Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) finalizing the entity ULUTH
+Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) finalizing the entity VULC
+Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) finalizing the entity WOOR
+Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) finalizing the entity XING
+Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) finalizing the entity YOTUNMAN
+Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) finalizing the entity ZION
+Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) finalizing the entity GNOME
+Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) finalizing the entity HALFLING
+Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) finalizing the entity SHADOW_GNOME
+Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) finalizing the entity TOMTENISSE
+Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) finalizing the entity REDCAP
+Unrecognized symbol: NAME_BUILDING_LIBRARY
+*** Error(s) finalizing the interaction ZOMBIE_PLAGUE
+Unrecognized Caste Token in Body Transformation Effect: :
+Interaction Token not recognized : PLAGUE
+*** Error(s) finalizing the interaction WEREBEAST_PLAGUE
+Unrecognized Caste Token in Body Transformation Effect: WEREBEAST:DEFAULT
+Interaction Token not recognized : PLAGUE

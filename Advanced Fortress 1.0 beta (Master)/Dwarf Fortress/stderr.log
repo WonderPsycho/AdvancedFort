@@ -199,6 +199,7 @@ loaded plugin zone; DFHack build 0.44.05-alpha1-0-gce1644d6
 Starting IO thread.
 Starting DF input capture thread.
 Starting the TCP listener.
+DFHack is running.
 Invoking: keybinding add Ctrl-F1 hotkeys
 Invoking: keybinding add Alt-F1 hotkeys
 Invoking: keybinding add Ctrl-W twaterlvl
@@ -258,7 +259,6 @@ Invoking: keybinding add Shift-B@pet/List/Unit "gui/autobutcher"
 Invoking: keybinding add P@dwarfmode/QueryBuilding/Some/Weaponrack gui/assign-rack
 Invoking: keybinding add Alt-Shift-P@dwarfmode/LookAround gui/pathable
 Invoking: tweak stable-cursor
-DFHack is running.
 Enabled tweak stable-cursor (stable_cursor_hook::feed)
 Invoking: tweak advmode-contained
 Enabled tweak advmode-contained (advmode_contained_hook::feed)
@@ -331,4 +331,3 @@ Invoking: gui/prerelease-warning
 loaded map in prerelease build
 Invoking: repeat -name warn-starving -time 10 -timeUnits days -command [ warn-starving ]
 Invoking: warn-starving
-Invoking: exportlegends info
